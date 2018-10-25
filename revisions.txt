@@ -1,0 +1,3 @@
+10/25/18 2:54
+
+Just added a mostly blank HeapADT.c file that has a bunch of empty functions to satisfy the HeapADP.h's functions. I am now attempting to build the test_HeapADT.c however it seems both make and gmakemake are not helping in the way I have been using them.
