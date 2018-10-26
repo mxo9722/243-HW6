@@ -1,3 +1,7 @@
 10/25/18 2:54
 
 Just added a mostly blank HeapADT.c file that has a bunch of empty functions to satisfy the HeapADP.h's functions. I am now attempting to build the test_HeapADT.c however it seems both make and gmakemake are not helping in the way I have been using them.
+
+10/25/18 9:28
+
+Have completed all of the functions short of them sorting the heap. I will begin implementing the sorting algorithems now along with the implementation of any functions I will need to do so.
